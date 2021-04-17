@@ -1,7 +1,7 @@
 import Foundation
 import UIKit
 
-// Got it from https://dev.to/rockarts/generative-art-using-swift-4aa5
+// From https://dev.to/rockarts/generative-art-using-swift-4aa5
 public class MazeLinesView: UIView {
     
     public override init(frame: CGRect) {
